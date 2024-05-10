@@ -1,4 +1,4 @@
-Project Name: [Project_ORIE4741](https://github.com/jleanezv/Project_ORIE4741)
+Project Name: [Heart Rate Variability Predictions](https://github.com/jleanezv/Project_ORIE4741)
 
 Project type: Data analysis
 
